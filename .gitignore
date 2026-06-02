@@ -1,0 +1,5 @@
+# Archivos temporales de Office
+~$*
+.~lock.*
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
